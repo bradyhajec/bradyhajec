@@ -7,10 +7,10 @@ Computer Science student at Auburn University with a focus on building efficient
 ## 🧑‍💻 Technical Skills
 
 **Languages:** TypeScript, JavaScript, Java, Python, C++  
-**Frontend:** Next.js, React, Tailwind CSS  
+**Frontend:** Next.js, React, Tailwind CSS, Angular
 **Backend:** NestJS, Node.js, Express  
-**Databases:** MongoDB, PostgreSQL  
-**ORMs / Tools:** Drizzle ORM, Prisma, Mongoose  
+**Databases:** MongoDB  
+**ORMs / Tools:** Drizzle ORM, Mongoose  
 **Other:** Git, REST APIs, Authentication (NextAuth), CI/CD (Vercel, Railway)
 
 ---
