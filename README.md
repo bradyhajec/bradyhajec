@@ -48,6 +48,6 @@ Internal tooling for Auburn’s Cupola Engineering Ambassadors. Developed featur
 
 ## 📫 Contact
 
-- [LinkedIn](www.linkedin.com/in/brady-hajec)
+- [LinkedIn](https://linkedin.com/in/brady-hajec)
 - [Email](mailto:bdhajec5@gmail.com)
 
