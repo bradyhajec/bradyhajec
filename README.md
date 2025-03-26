@@ -11,7 +11,7 @@ Computer Science student at Auburn University with a focus on building efficient
 **Backend:** NestJS, Node.js, Express  
 **Databases:** MongoDB  
 **ORMs / Tools:** Drizzle ORM, Mongoose  
-**Other:** Git, REST APIs, Authentication (NextAuth), CI/CD (Vercel, Railway)
+**Other:** Git, REST APIs, Authentication (NextAuth, Passport JWT), CI/CD (Vercel, Railway)
 
 ---
 
@@ -25,10 +25,13 @@ An application for collecting and organizing guitar song requests. Features:
 - Responsive interface built with Tailwind CSS
 
 ### [Cupola Engineering Ambassadors Site](https://event-tracker-green.vercel.app/) *(Preview)*
-Internal tooling for Auburn’s Cupola Engineering Ambassadors. Developed features to support:
-- Tour scheduling and volunteer coordination
-- Corporate outreach and event tracking
-- Admin access control and form management
+An internal platform for Auburn’s College of Engineering student leadership organization, designed to streamline operations and improve visibility. Features:
+- Allows ambassadors to view their recorded absences
+- Admins can manage member attendance, organization status, and ambassador details
+- Displays key organizational documents and leadership information
+- Built with **Angular** (frontend) and **NestJS** (backend)
+- Authentication implemented using **Passport JWT** with HTTP-only cookies
+- Deployed using **Vercel (frontend)** and **Railway (backend)**
 
 ---
 
