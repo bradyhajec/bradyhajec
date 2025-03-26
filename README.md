@@ -24,7 +24,7 @@ An application for collecting and organizing guitar song requests. Features:
 - Like system with user-specific restrictions
 - Responsive interface built with Tailwind CSS
 
-### [Cupola Engineering Ambassadors Site](https://cupola-site.vercel.app) *(Preview)*
+### [Cupola Engineering Ambassadors Site](https://event-tracker-green.vercel.app/) *(Preview)*
 Internal tooling for Auburn’s Cupola Engineering Ambassadors. Developed features to support:
 - Tour scheduling and volunteer coordination
 - Corporate outreach and event tracking
