@@ -1,67 +1,53 @@
-# 👋 Hi, I’m Brady Hajec
+# Brady Hajec
 
-I'm a Computer Science student at Auburn University with a passion for building software that helps people — from improving engineering ambassador operations to making music more interactive and fun 🎸
-
----
-
-## 💼 What I’m About
-
-- 🎓 CS Student @ **Auburn University**
-- 💻 Full-stack development experience with **Next.js**, **NestJS**, **MongoDB**, **Drizzle ORM**, **Tailwind CSS**
-- 🎸 Creator of a **Guitar Song Request App** — lets users submit & vote on songs I should learn
-- 👔 Former Director of Corporate Relations at **Cupola Engineering Ambassadors**, where I built tools and organized events to bridge the gap between students and industry
-- 🔐 Strong understanding of authentication, protected routes, and admin privileges in modern web apps
+Computer Science student at Auburn University with a focus on building efficient, user-focused web applications. I enjoy developing tools that solve real problems — from internal platforms for student organizations to public-facing applications for broader engagement.
 
 ---
 
-## 🛠 Skills & Tech Stack
+## 🧑‍💻 Technical Skills
 
-**Frontend**  
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?&logo=tailwind-css&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white)
-
-**Backend**  
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?&logo=nestjs&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb&logoColor=white)  
-![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-000000?logo=drizzle)
-
-**Other**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=typescript&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white)
+**Languages:** TypeScript, JavaScript, Java, Python, C++  
+**Frontend:** Next.js, React, Tailwind CSS  
+**Backend:** NestJS, Node.js, Express  
+**Databases:** MongoDB, PostgreSQL  
+**ORMs / Tools:** Drizzle ORM, Prisma, Mongoose  
+**Other:** Git, REST APIs, Authentication (NextAuth), CI/CD (Vercel, Railway)
 
 ---
 
-## 📂 Projects
+## 🔧 Projects
 
-### 🎸 [Guitar Song Request App](https://guitar-request-app.vercel.app)
-A fun app where friends (and strangers) can submit songs for me to learn and like others’ suggestions. Features:
-- Google login (NextAuth)
-- Admin controls for status + deleting requests
-- Like system, comment support, and responsive UI
+### [Guitar Song Request App](https://guitar-request-app.vercel.app)
+An application for collecting and organizing guitar song requests. Features:
+- Google authentication (NextAuth)
+- Admin dashboard for managing requests and status updates
+- Like system with user-specific restrictions
+- Responsive interface built with Tailwind CSS
 
-### 🏛 [Cupola Engineering Ambassadors Tools](https://cupola-site.vercel.app) *(Coming Soon)*
-Streamlining event management, tour requests, and corporate relationships. More than just a site — it’s a toolset for student leaders.
-
----
-
-## 🧠 Fun Facts
-
-- I enjoy turning feedback into features
-- I like learning in public and working on meaningful software
-- Music keeps me sane while debugging 🎧
+### [Cupola Engineering Ambassadors Site](https://cupola-site.vercel.app) *(Preview)*
+Internal tooling for Auburn’s Cupola Engineering Ambassadors. Developed features to support:
+- Tour scheduling and volunteer coordination
+- Corporate outreach and event tracking
+- Admin access control and form management
 
 ---
 
-## 📫 Let’s Connect
+## 🏫 Experience
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/bradyhajec/)
-- 🧪 [LeetCode](https://leetcode.com/your-username) *(if you want to show problem-solving)*
-- 📧 Email me at: `bdhajec5@gmail.com`
+**Cupola Engineering Ambassadors**  
+*Director of Corporate Relations*  
+- Managed corporate relationships and coordinated events
+- Developed internal tools to improve communication and scheduling
+
+**LPL Financial**  
+*Software Engineering Intern*  
+- Worked on full-stack features using Angular and NGRX
+- Gained experience in agile development, testing, and CI/CD pipelines
 
 ---
 
-> “The best software is built by people who understand both the code and the humans using it.”
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/bradyhajec/)
+- [Email](mailto:bdhajec5@gmail.com)
 
