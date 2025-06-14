@@ -4,7 +4,7 @@ Computer Science student at Auburn University with a focus on building efficient
 
 ---
 
-## 🧑‍💻 Technical Skills
+## Technical Skills
 
 **Languages:** TypeScript, JavaScript, Java, Python, C++
 
@@ -20,7 +20,7 @@ Computer Science student at Auburn University with a focus on building efficient
 
 ---
 
-## 🔧 Projects
+## Projects
 
 ### [Guitar Song Request App](https://guitar-request-app.vercel.app)
 An application for collecting and organizing guitar song requests. Features:
@@ -40,7 +40,7 @@ An internal platform for Auburn’s College of Engineering student leadership or
 
 ---
 
-## 🏫 Experience
+## Experience
 
 **Cupola Engineering Ambassadors**  
 *Director of Corporate Relations*  
@@ -54,7 +54,7 @@ An internal platform for Auburn’s College of Engineering student leadership or
 
 ---
 
-## 📫 Contact
+## Contact
 
 - [LinkedIn](https://linkedin.com/in/brady-hajec)
 - [Email](mailto:bdhajec5@gmail.com)
