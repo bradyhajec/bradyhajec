@@ -42,20 +42,29 @@ An internal platform for Auburn’s College of Engineering student leadership or
 
 ## Experience
 
+**LPL Financial**  
+*Software Engineering Intern*  
+- Engineered a serverless data ingestion pipeline using AWS Lambda, API Gateway, and S3 to efficiently process financial data for 5,000,000+ client and advisor accounts in minutes by optimizing for large-scale workloads
+- Automated infrastructure setup with Terraform to provision scalable environments for data ingestion, integrating with a .NET-based loan modeling system backed by Amazon RDS for PostgreSQL
+- Delivered loan modeling and tracking insights for 29,000+ financial advisors, improving decision-making accuracy
+
+
+**LPL Financial**  
+*Software Engineering Intern*  
+- Deployed a data intake solution helping 22,000+ financial advisors gather client information and create financial plans
+- Implemented a flexible form builder using Angular and NGRX, backed by a .NET API, to support robust data collection
+- Led standups, refined backlog, and estimated story points in Agile environment using Kanban tracking
+
+
 **Cupola Engineering Ambassadors**  
 *Director of Corporate Relations*  
 - Managed corporate relationships and coordinated events
 - Developed internal tools to improve communication and scheduling
-
-**LPL Financial**  
-*Software Engineering Intern*  
-- Worked on full-stack features using Angular and NGRX
-- Gained experience in agile development, testing, and CI/CD pipelines
 
 ---
 
 ## Contact
 
 - [LinkedIn](https://linkedin.com/in/brady-hajec)
-- [Email](mailto:bdhajec5@gmail.com)
+- [Email](mailto:bradyhajec@outlook.com)
 
